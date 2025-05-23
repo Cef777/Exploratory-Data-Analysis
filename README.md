@@ -4,7 +4,7 @@
 
 ## 📘 Overview
 
-This project presents an **Exploratory Data Analysis (EDA)** of the well-known [Titanic dataset](https://www.kaggle.com/c/titanic/data). The primary goal is to explore factors that influenced passenger survival during the RMS Titanic disaster in 1912 using statistical and graphical EDA techniques.
+This project presents an **Exploratory Data Analysis (EDA)** of the well-known [Titanic dataset](https://www.kaggle.com/datasets/yasserh/titanic-dataset/data). The primary goal is to explore factors that influenced passenger survival during the RMS Titanic disaster in 1912 using statistical and graphical EDA techniques.
 
 ---
 
