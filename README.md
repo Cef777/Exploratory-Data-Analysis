@@ -62,10 +62,10 @@ This project presents an **Exploratory Data Analysis (EDA)** of the well-known [
 ## 📊 Visualizations
 
 ### Survival Distribution
-![Survival Barplot](images/survival_distribution.png)
+![Survival Barplot](https://github.com/Cef777/Exploratory-Data-Analysis/blob/main/Survival%20Distribution.png)
 
 ### Class vs. Survival
-![Class Survival](https://github.com/Cef777/Exploratory-Data-Analysis/blob/main/Survival%20Distribution.png)
+![Class Survival](https://github.com/Cef777/Exploratory-Data-Analysis/blob/main/Class%20vs%20Survival.png)
 
 ### Gender Impact
 ![Gender Survival](https://github.com/Cef777/Exploratory-Data-Analysis/blob/main/Gender%20Impact.png)
