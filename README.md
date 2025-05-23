@@ -42,7 +42,7 @@ This project presents an **Exploratory Data Analysis (EDA)** of the well-known [
 - **Python 3**
 - `Pandas`, `NumPy`
 - `Matplotlib`, `Seaborn`
-- `Jupyter Notebook`
+- `Google Colab`
 
 ---
 
