@@ -1,6 +1,6 @@
 # 🛳️ Titanic Dataset - Exploratory Data Analysis (EDA)
 
-![Titanic](https://upload.wikimedia.org/wikipedia/commons/f/fd/RMS_Titanic_3.jpg)
+![Titanic]([https://upload.wikimedia.org/wikipedia/commons/f/fd/RMS_Titanic_3.jpg](https://github.com/Cef777/Exploratory-Data-Analysis/blob/main/Screenshot%202025-05-23%20204012.png))
 
 ## 📘 Overview
 
