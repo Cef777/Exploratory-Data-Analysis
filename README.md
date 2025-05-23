@@ -73,10 +73,13 @@ This project presents an **Exploratory Data Analysis (EDA)** of the well-known [
 ### Age Distribution (KDE)
 ![Age KDE](https://github.com/Cef777/Exploratory-Data-Analysis/blob/main/Age%20Distribution.png)
 
+### Survival Rate of Children per Class
+![Heatmap](https://github.com/Cef777/Exploratory-Data-Analysis/blob/main/Children%20Survival%20per%20Class.png)
+
 ### Heatmap of Correlations
 ![Heatmap](https://github.com/Cef777/Exploratory-Data-Analysis/blob/main/Heatmap%20Correlations.png)
 
-> 📷 _Place your analysis visual outputs in a `/images` directory and update links above accordingly._
+
 
 ---
 
@@ -84,7 +87,7 @@ This project presents an **Exploratory Data Analysis (EDA)** of the well-known [
 
 - **Passenger Class:** 1st Class passengers had the highest survival rates.
 - **Gender:** Females had significantly higher survival odds than males.
-- **Age:** Children under 16 had a better chance of survival, particularly in higher classes.
+- **Age:** Children had a better chance of survival, particularly in higher classes.
 - **Fare:** Higher fares (typically paid by upper-class passengers) slightly correlated with survival.
 - **Family:** No strong survival correlation found based on family traveling with passengers (SibSp/Parch).
 
