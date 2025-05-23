@@ -104,10 +104,3 @@ This project presents an **Exploratory Data Analysis (EDA)** of the well-known [
 - Explore non-linear models to capture complex interactions.
 - Apply machine learning to test predictive performance.
 
----
-
-## 🚀 Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/titanic-eda.git
